@@ -1,4 +1,4 @@
-# miniguia-estudos-notebooklm
+# Mini-guia de Estudos para NotebookLM
 
 
 ## 1. Contexto e Objetivos
@@ -79,5 +79,15 @@ O Protocolo Tabata funciona como um Overclocking controlado do sistema humano. V
 - Cicloergômetro: Equipamento utilizado no estudo original (bicicleta ergométrica com ajuste de carga de frenagem), ideal para manter a potência exata de 170%.
 - Cross-Exercise (Treinamento Cruzado): Metodologia moderna (estudos de 2024) que aplica o Tabata alternando diferentes exercícios (ex: Burpees e Sprints), provando ser eficaz para elevar o consumo de oxigênio acima do VO2 max específico de um único movimento.
 
+### Sugestão de Prompts Reutilizáveis
+Prompts testados, porém não documentados.
+
+- "Explique a diferença entre o ganho de capacidade aeróbica e anaeróbica no estudo de 1996. Por que o grupo de endurance moderada não obteve ganhos anaeróbicos?"
+- "Resuma o papel do MAOD (Déficit de Oxigênio Acumulado Máximo) como o principal indicador de sucesso no Protocolo Tabata."
+- "Com base nas fontes, descreva a curva de lactato esperada para um atleta que realiza o protocolo de forma correta."
+- "Atue como um fisiologista do exercício e avalie: o agachamento _[você pode alterar o exercício]_ possui o componente de potência necessário para atingir 170% do VO2máx em 20 segundos?"
+- "Explique o mecanismo de EPOC detalhado nas fontes e como ele influencia a oxidação de lipídios nas 24 horas pós-treino."
+- "Quais são os marcadores biológicos (além do peso) que indicam que o corpo está se adaptando positivamente ao treinamento de alta intensidade?"
+- "Quais as principais contraindicações de segurança do método?"
 
 ## 5. Conclusão
