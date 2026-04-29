@@ -82,12 +82,17 @@ O Protocolo Tabata funciona como um Overclocking controlado do sistema humano. V
 ### Sugestão de Prompts Reutilizáveis
 Prompts testados, porém não documentados.
 
-- "Explique a diferença entre o ganho de capacidade aeróbica e anaeróbica no estudo de 1996. Por que o grupo de endurance moderada não obteve ganhos anaeróbicos?"
-- "Resuma o papel do MAOD (Déficit de Oxigênio Acumulado Máximo) como o principal indicador de sucesso no Protocolo Tabata."
-- "Com base nas fontes, descreva a curva de lactato esperada para um atleta que realiza o protocolo de forma correta."
-- "Atue como um fisiologista do exercício e avalie: o agachamento _[você pode alterar o exercício]_ possui o componente de potência necessário para atingir 170% do VO2máx em 20 segundos?"
-- "Explique o mecanismo de EPOC detalhado nas fontes e como ele influencia a oxidação de lipídios nas 24 horas pós-treino."
-- "Quais são os marcadores biológicos (além do peso) que indicam que o corpo está se adaptando positivamente ao treinamento de alta intensidade?"
-- "Quais as principais contraindicações de segurança do método?"
+> "Explique a diferença entre o ganho de capacidade aeróbica e anaeróbica no estudo de 1996. Por que o grupo de endurance moderada não obteve ganhos anaeróbicos?"
+> "Resuma o papel do MAOD (Déficit de Oxigênio Acumulado Máximo) como o principal indicador de sucesso no Protocolo Tabata."
+> "Com base nas fontes, descreva a curva de lactato esperada para um atleta que realiza o protocolo de forma correta."
+> "Atue como um fisiologista do exercício e avalie: o agachamento _[você pode alterar o exercício]_ possui o componente de potência necessário para atingir 170% do VO2máx em 20 segundos?"
+> "Explique o mecanismo de EPOC detalhado nas fontes e como ele influencia a oxidação de lipídios nas 24 horas pós-treino."
+> "Quais são os marcadores biológicos (além do peso) que indicam que o corpo está se adaptando positivamente ao treinamento de alta intensidade?"
+> "Quais as principais contraindicações de segurança do método?"
 
 ## 5. Conclusão
+O uso do NotebookLM neste projeto demonstrou que a IA evoluiu de um simples "gerador de textos" para uma poderosa ferramenta de curadoria. Ao contrário de modelos genéricos, o NotebookLM atua sobre uma base de dados confiável, o que reduz as alucinações e aumenta a precisão das respostas.
+
+### Desvantagens e Limitações
+- Dependência da Qualidade das Fontes: Se o usuário subir arquivos superficiais ou incorretos, a IA irá reproduzir esses erros. Para o tema escolhido, tive muita dificuldade em achar fontes confiáveis em links de youtube, caso eu colocasse alguma fonte ruidosa poderia alterar muito a qualidade das respostas.
+- Risco de "Acomodação": Existe a tentação de aceitar o resumo da IA sem questionar porém, em alguns casos, foi necessário intervir. Por exemplo, reestruturar o prompt para que a ferramenta não tratasse exercícios leves (polichinelos) como equivalentes a protocolos de alta potência.
